@@ -22,7 +22,7 @@
 
 ## Language
 
-![skills](https://skillicons.dev/icons?i=js,css,html,ts,nodejs)
+![skills](https://skillicons.dev/icons?i=js,nodejs,css,ts,html)
 
 <a href="https://github.com/fkc-alt/http-typedi" style="margin-bottom:5px">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=fkc-alt&repo=http-typedi" />
