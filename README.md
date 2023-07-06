@@ -27,3 +27,7 @@
 <a href="https://github.com/fkc-alt/http-typedi" style="margin-bottom:5px">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=fkc-alt&repo=http-typedi" />
 </a>
+
+<a href="https://github.com/fkc-alt/vue-vite-decorator-template" style="margin-bottom:5px">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=fkc-alt&repo=vue-vite-decorator-template" />
+</a>
