@@ -24,7 +24,7 @@
 
 ![skills](https://skillicons.dev/icons?i=js,nodejs,css,ts,html)
 
-<div style='display: flex; gap: 20px;align-items: center;'>
+<div style='display: flex; gap: 20px;align-items: center;margin: 20px 0'>
   <a href="https://github.com/fkc-alt/http-typedi">
     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=fkc-alt&repo=http-typedi" />
   </a>
