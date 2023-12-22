@@ -32,6 +32,6 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=fkc-alt&repo=vue-vite-decorator-template" />
 </a>
 
-<a href="https://github.com/fkc-alt/ikun" style="margin-bottom:5px">
+<a href="https://github.com/fkc-alt/ikun" style="margin-bottom:5px;margin-top: 5px">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=fkc-alt&repo=ikun" />
 </a>
